@@ -13,7 +13,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mrokorojames) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/okorojames) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/okorojames_) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/okorojames_)
 
 - 🌍 Somewhere on the web
-- 🖥️ Portfolio 👉[okorojames.com](https://jamextech1.github.io/mrokorojames/)
+- 🖥️ Portfolio 👉[okorojames.com](https://okorojames.netlify.app)
 - 👨🏾‍💻 CV 👉 [My CV](https://bit.ly/downloadMyCv)
 - ✉️ Email me 👉 [okorojameschizaram@gmail.com](mailto:okorojameschizaram@gmail.com)
 - 🧠 Learning
