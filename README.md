@@ -14,7 +14,7 @@
 
 - 🌍 Somewhere on the web
 - 🖥️ Portfolio 👉[okorojames.com](https://okorojames.netlify.app)
-- 👨🏾‍💻 CV 👉 [My CV](https://bit.ly/downloadMyCv)
+- 👨🏾‍💻 CV 👉 [My CV](https://bit.ly/downloadmyCv)
 - ✉️ Email me 👉 [okorojameschizaram@gmail.com](mailto:okorojameschizaram@gmail.com)
 - 🧠 Learning
 - 🤝 Open for work, freelance and Open source contributions
