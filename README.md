@@ -34,12 +34,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=okorojames&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
-## Wakatime stats
-[![wakatime](https://wakatime.com/badge/user/f9c42528-3c72-4c6c-93d7-9d10ad114ac4.svg)](https://wakatime.com/@f9c42528-3c72-4c6c-93d7-9d10ad114ac4)
-
-<a href="https://wakatime.com/share/@okorojames/aa6a56c3-87be-4847-975b-33221f66969e.svg"><img style="border-radius:30; border-color: #39D353;" height="400em" src="https://wakatime.com/share/@okorojames/aa6a56c3-87be-4847-975b-33221f66969e.svg"></a>
-
-
 ### 👨‍💻 GitHub Commits
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=okorojames&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
