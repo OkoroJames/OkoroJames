@@ -39,7 +39,7 @@
 
 ### 👨‍💻 GitHub Commits
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=okorojames&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://fabianocouto-activity-graph.vercel.app/graph/?username=okorojames&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### ✍️ Random Dev Quote
 
