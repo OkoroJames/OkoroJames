@@ -39,7 +39,7 @@
 
 ###
 
-[![James's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=okorojames&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![James's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=okorojames&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 👨‍💻 GitHub Commits
 
