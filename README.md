@@ -37,6 +37,10 @@
 
 ![](https://github-contributor-stats.vercel.app/api?username=okorojames&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
+###
+
+[![James's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=okorojames&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 👨‍💻 GitHub Commits
 
 [![Ashutosh's github activity graph](https://fabianocouto-activity-graph.vercel.app/graph/?username=okorojames&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
